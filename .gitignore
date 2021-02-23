@@ -1,0 +1,7 @@
+.idea/
+
+/vendor/
+/arm/
+
+/go.sum
+/ancv
