@@ -68,3 +68,7 @@ OPTIONS:
    --ask, -a                  Ask label for unrecognized (default: false)
    --help, -h                 show help (default: false)
 ```
+
+# Links:
+
+- https://gocv.io/getting-started/macos
